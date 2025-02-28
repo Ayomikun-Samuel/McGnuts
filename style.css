@@ -86,7 +86,7 @@ nav li:first-child {
 }
 .image img {
     border-radius: 40px;
-    height: 65vh;
+    height: auto;
     width: 37vw;
     box-shadow: -8px 13px 25px 8px rgba(117, 63, 0, 0.781);
 }
