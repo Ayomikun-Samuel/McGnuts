@@ -269,7 +269,7 @@ nav li:first-child {
     }
     .image img{
         width: 42vw;
-        height: auto;
+        height: 50vh;
     }
     .container {
         height: 60vh;
