@@ -288,6 +288,8 @@ nav li:first-child {
         visibility: hidden;
         width: 0;
     }
+    .container {
+        height: 65vh;
 }
 
 @media screen and (max-width: 650px) {
