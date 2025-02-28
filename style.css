@@ -270,10 +270,13 @@ nav li:first-child {
     .image img{
         width: 42vw;
     }
+    .container {
+        height: 65vh;
+    }
 }
 
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 940px) {
     .text h2 {
         font-size: 400%;
         line-height: 70px;
@@ -288,8 +291,6 @@ nav li:first-child {
         visibility: hidden;
         width: 0;
     }
-    .container {
-        height: 65vh;
 }
 
 @media screen and (max-width: 650px) {
