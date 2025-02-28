@@ -269,6 +269,14 @@ nav li:first-child {
     }
     .image img{
         width: 42vw;
+        height: 50vh;
+    }
+    .image {
+        height: 50vh;
+        padding-top: 5vh;
+    }
+    .container {
+        height: 60vh;
     }
 }
 
