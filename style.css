@@ -86,7 +86,7 @@ nav li:first-child {
 }
 .image img {
     border-radius: 40px;
-    height: auto;
+    height: 65vh;
     width: 37vw;
     box-shadow: -8px 13px 25px 8px rgba(117, 63, 0, 0.781);
 }
@@ -269,9 +269,10 @@ nav li:first-child {
     }
     .image img{
         width: 42vw;
+        height: auto;
     }
     .container {
-        height: 65vh;
+        height: 60vh;
     }
 }
 
